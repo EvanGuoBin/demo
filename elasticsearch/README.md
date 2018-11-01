@@ -1,2 +1,0 @@
-1. elasticsearch的9200端口是http端口,9300是内部传输数据的端口
-2. SpringData 需要的TransportClient构造指定端口是9300
